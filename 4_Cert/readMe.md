@@ -4,18 +4,6 @@
 
 ---
 
-# 晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）
-
-[首頁](/readMe.md) | [依服務別](/1_Prod/readMe.md) | [資安聊天室](/2_Chat/readMe.md) | [資安新聞](/3_Intel/readMe.md) | [證照考試](/4_Cert/readMe.md)｜[人才招募](/5_Admin/HR.md) | [其他](/6_Others/readMe.md)
-
----
-
-# 晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）
-
-[首頁](/readMe.md) | [依服務別](/1_Prod/readMe.md) | [資安聊天室](/2_Chat/readMe.md) | [資安新聞](/3_Intel/readMe.md) | [證照考試](/4_Cert/readMe.md)｜[人才招募](/5_Admin/HR.md) | [其他](/6_Others/readMe.md)
-
----
-
 歡迎來到 **晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）** 的 GitHub。
 
 這邊會以各類資訊安全證書為核心，展開相關核心的討論與分享。
@@ -46,23 +34,6 @@ CompTIA Security+ 是由 CompTIA（Computing Technology Industry Association） 
 Security+ 著重於資訊安全核心知識與實務應用能力，考試內容涵蓋一般安全概念、威脅與漏洞管理、安全架構、網路防護、身分識別與存取控制、密碼學、安全作業、事件回應、風險管理及法規遵循等主題。試題除測驗觀念理解外，也強調情境分析與問題解決能力，要求考生能依據不同環境選擇適當的安全控制措施。整體難度屬於入門至中階，相較於偏重管理治理的 CISSP，更著重於實務技術與日常安全維運能力，是建立資安專業基礎的重要認證。
 
 Security+ 適合希望進入資訊安全領域的學生、資訊相關科系畢業生，以及從事系統管理、網路管理、IT 維運、技術支援、雲端服務或資安初階工作的專業人員。對於企業而言，也適合作為新進資安人員、SOC 分析師、資安工程師及資訊管理人員的能力培訓與評估基礎。由於 Security+ 涵蓋完整的資訊安全基本觀念與實務技能，取得證照後可作為進一步挑戰 CySA+、PenTest+、CASP+ 或 CISSP 等中高階國際資安證照的重要基礎，協助建立完整且循序漸進的職涯發展路徑。
-
----
-
----
-
-
-## 聯絡我們
-
-🌐 官方網站  
-https://www.solar-poplar.com <br>
-https://晟楊顧問.tw
-
-📧 Email  
-PM@solar-poplar.com
-
-**Solar-Poplar Consultant Ltd.**  
-專業、品德與品質優先，讓我們成為您的夥伴與教練，讓資訊安全成為企業持續成長的基石而非累贅。
 
 ---
 
