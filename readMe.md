@@ -14,8 +14,8 @@
 
 ## 依主題
 
-- [ISO/IEC 27001 資訊安全管理系統（ISMS）](topic/ISO_27001.md)
-- ISO/IEC 27701 隱私資訊管理系統（PIMS）
+- [ISO/IEC 27001 資訊安全管理系統（ISMS）](/topic/ISO_27001.md)
+- [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/building.md)
 - ISO/IEC 42001 人工智慧管理系統（AIMS）
 - IEC 62443 工業控制系統資安
 - 資訊安全合規協助，含客戶自我查檢表回覆協助。
