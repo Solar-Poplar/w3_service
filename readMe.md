@@ -1,6 +1,6 @@
 # 晟楊顧問股份有限公司（Solar-Poplar Consultant Ltd.）
 
-[首頁](/readMe.md) | [依服務別](/Products/readMe.md) | [資安聊天室](/Chat/readMe.md) | [資安新聞](/News/readMe.md) | [證照考試](/Certificate/readMe.md)｜[人才招募](/Admin/HR.md) | [其他](/Others/readMe.md)
+[首頁](/readMe.md) | [依服務別](/1_Prod/readMe.md) | [資安聊天室](/2_Chat/readMe.md) | [資安新聞](/3_Intel/readMe.md) | [證照考試](/4_Cert/readMe.md)｜[人才招募](/5_Admin/HR.md) | [其他](/6_Others/readMe.md)
 
 ---
 
@@ -16,16 +16,20 @@
 
 1.依服務別
 
-  * [ISO/IEC 27001 資訊安全管理系統（ISMS）](/Products/ISO_27001.md)
-  * [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/Products/building.md)
-  * [IEC 62443 工業控制系統資安](/Products/building.md)
-
+  * [ISO/IEC 27001 資訊安全管理系統（ISMS）](/1_Prod/ISO_27001.md)
+  * [IEC 62443 工業控制系統資安](/1_Prod/IEC_62443.md)
 
 2.資安聊天室 - 從管理、技術與合規…等不同角度
 
+  * [點我進入](/2_Chat/readMe.md)
+
 3.資安情資   - 包含威脅情資、新聞與技術新知
 
+  * [點我進入](/3_Intel/readMe.md)
+
 4.證照考試   - 針對證照考試的各種分享
+
+  * [點我進入](/4_Cert/readMe.md)
 
 <br> <br> <br>
 
