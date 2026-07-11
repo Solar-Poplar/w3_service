@@ -16,9 +16,9 @@
 
 1.資安討論
 
-	* [ISO/IEC 27001 資訊安全管理系統（ISMS）](/topic/ISO_27001.md)
-	*  [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/building.md)
-	*  IEC 62443 工業控制系統資安
+* [ISO/IEC 27001 資訊安全管理系統（ISMS）](/topic/ISO_27001.md)
+*  [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/building.md)
+*  IEC 62443 工業控制系統資安
 
 1. 資安討論 - 管理、技術與合規
 2. 資安討論 - 管理、技術與合規
