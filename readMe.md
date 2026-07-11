@@ -1,6 +1,7 @@
 # 晟楊顧問股份有限公司（Solar-Poplar Consultant Ltd.）
 
- 資訊安全｜隱私保護｜工業控制資安｜AI 治理
+[首頁](/readMe.md) | [資安討論](/Chat/readMe.md) | [資安新聞](/News/readMe.md) | [證照考試](/Certificate/readMe.md)｜[人才招募](/Admin/HR.md)
+
 
 歡迎來到 **晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）** 的 GitHub。
 
