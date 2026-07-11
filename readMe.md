@@ -10,48 +10,38 @@
 
 ---
 
-## 依產品主題
+## 依主題
 
-- ISO/IEC 27001 資訊安全管理系統（ISMS）
+- [ISO/IEC 27001 資訊安全管理系統（ISMS）](ISO_27001.md)
 - ISO/IEC 27701 隱私資訊管理系統（PIMS）
 - ISO/IEC 42001 人工智慧管理系統（AIMS）
 - IEC 62443 工業控制系統資安
-- Secure Software Development Lifecycle（SSDLC）
-- NIST Cybersecurity Framework（CSF 2.0）
-- Cyber Resilience Act（CRA）
-- NIS2 Directive
-- 原始碼安全檢測
-- 資安風險評估
-- 差異分析（Gap Analysis）
-- 內部稽核與管理審查
-- 資安教育訓練
+- 資訊安全合規協助，含客戶自我查檢表回覆協助。
+- 資訊安全合規查檢表協助。
+- 資訊安全諮詢服務。
+- 資訊安全內部稽核作業。
+- 資安教育訓練。
+- 其他；各式資安議題都歡迎我們連繫討論。
 
 ---
 
 ## 資安討論 - 管理、技術與合規
 
-- Wazuh
-- SonarQube
-- GitHub Actions
-- DevSecOps
-- 原始碼安全檢測
-- 漏洞管理
-- 風險管理
-- 開源資安工具
 
----
+<br>
+## 資安新聞
 
-## 資安相關新聞討論
+- 2026.
 
-- 
-
+<br>
 ## 人才招募
 
 1. 專業顧問：暫無職缺。 <br>
-2. 兼職業務：開缺中。   <br>
+2. 兼職業務：徵求夥伴中，歡迎透過 pm@solar-poplar.com 與我們連絡。   <br>
 <br>
-- 
 
+
+<br>
 ## 聯絡我們
 
 🌐 官方網站  
@@ -64,4 +54,4 @@ PM@solar-poplar.com
 ---
 
 **Solar-Poplar Consultant Ltd.**  
-讓資訊安全成為企業持續成長的基石。
+專業、品德與品質優先，讓我們成為您的夥伴與教練，讓資訊安全成為企業持續成長的基石而非累贅。
