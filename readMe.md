@@ -1,7 +1,8 @@
 # 晟楊顧問股份有限公司（Solar-Poplar Consultant Ltd.）
 
-[首頁](/readMe.md) | [資安討論](/Chat/readMe.md) | [資安新聞](/News/readMe.md) | [證照考試](/Certificate/readMe.md)｜[人才招募](/Admin/HR.md)
+[首頁](/readMe.md) | [依服務別](/Products/readMe.md) | [資安聊天室](/Chat/readMe.md) | [資安新聞](/News/readMe.md) | [證照考試](/Certificate/readMe.md)｜[人才招募](/Admin/HR.md) | [其他](/Others/readMe.md)
 
+---
 
 歡迎來到 **晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）** 的 GitHub。
 
@@ -13,42 +14,19 @@
 
 ---
 
-## 依主題
+1.資安討論
 
-- [ISO/IEC 27001 資訊安全管理系統（ISMS）](/topic/ISO_27001.md)
-- [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/building.md)
-- ISO/IEC 42001 人工智慧管理系統（AIMS）
-- IEC 62443 工業控制系統資安
-- 資訊安全合規協助，含客戶自我查檢表回覆協助。
-- 資訊安全合規查檢表協助。
-- 資訊安全諮詢服務。
-- 資訊安全內部稽核作業。
-- 資安教育訓練。
-- 其他；各式資安議題都歡迎我們連繫討論。
+	- [ISO/IEC 27001 資訊安全管理系統（ISMS）](/topic/ISO_27001.md)
+	- [ISO/IEC 27701 隱私資訊管理系統（PIMS）](/building.md)
+	- IEC 62443 工業控制系統資安
 
----
-
-## 資安討論 - 管理、技術與合規
-
-
-<br>
-
-## 資安新聞
-
-- 2026.
-
-<br>
-
-
----
+1. 資安討論 - 管理、技術與合規
+2. 資安討論 - 管理、技術與合規
 
 ## 人才招募
 
 1. 專業顧問：暫無職缺。 <br>
 2. 兼職業務：徵求夥伴中，歡迎透過 pm@solar-poplar.com 與我們連絡。   <br>
-<br>
-
-
 <br>
 
 ---

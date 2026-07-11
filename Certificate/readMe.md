@@ -2,6 +2,8 @@
 
 [首頁](/readMe.md) | [資安討論](/Chat/readMe.md) | [資安新聞](/News/readMe.md) | [證照考試](/Certificate/readMe.md)｜[人才招募](/Admin/HR.md) | [其他](/Others/readMe.md)
 
+---
+
 歡迎來到 **晟楊顧問有限公司（Solar-Poplar Consultant Ltd.）** 的 GitHub。
 
 這邊會以各類資訊安全證書為核心，展開相關核心的討論與分享。
@@ -23,8 +25,6 @@ CISSP 著重於資訊安全管理與整體治理能力，而非單一技術產�
 
 CISSP 特別適合具備數年資訊安全或資訊科技實務經驗，希望朝資安管理、治理或顧問方向發展的專業人士，包括資訊安全主管、IT 經理、資安工程師、系統架構師、稽核人員、風險管理人員及資安顧問等。對於需要規劃企業資安策略、建立管理制度、推動法規遵循或帶領資安團隊的人員而言，CISSP 能有效展現其具備國際認可的專業能力與管理視野，也有助於提升職涯發展與企業信任度。
 
----
-
 ## Security+
 - [Security+ 國際網路資安專家認證](/Certificate/Security+.md)
 
@@ -37,16 +37,3 @@ Security+ 適合希望進入資訊安全領域的學生、資訊相關科系畢�
 
 ---
 
-## 聯絡我們
-
-🌐 官方網站  
-https://www.solar-poplar.com <br>
-https://晟楊顧問.tw
-
-📧 Email  
-PM@solar-poplar.com
-
----
-
-**Solar-Poplar Consultant Ltd.**  
-專業、品德與品質優先，讓我們成為您的夥伴與教練，讓資訊安全成為企業持續成長的基石而非累贅。
